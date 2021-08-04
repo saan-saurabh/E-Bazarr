@@ -30,7 +30,7 @@
               <li><h5><strong>Resources</strong></h5></li>
               <li><a href="https://www.pdgob.com/" style="text-decoration:none;" target="_blank">Blog</a></li>
               <li><a href="<?php echo $path ?>templates/views/support.php" style="text-decoration:none;">Support</a></li>
-              <li><a href="<?php echo $path ?>templates/views/developers.php" style="text-decoration:none;">Developers</a></li>
+              <li><a href="#" style="text-decoration:none;">Developers</a></li>
              </ul>
            </div>
            <div class="col-sm-3 col-md-3 col-lg-3 col-xs-3">
